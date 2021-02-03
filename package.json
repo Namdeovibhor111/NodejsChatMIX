@@ -4,9 +4,8 @@
   "description": "Realtime chat with rooms",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "dev" : "nodemon server",
-    "start" : "server.js"
+    "start": "server.js",
+    "dev" : "nodemon server"
   },
   "author": "Vibhor",
   "license": "ISC",
